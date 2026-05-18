@@ -73,7 +73,6 @@ LED-DotMatrix-Wireless-Display/
 └── hardware/
     ├── schematic.png  # Schematic
     └── pcb_layout.png # PCB layout
-```text
 
 ---
 
