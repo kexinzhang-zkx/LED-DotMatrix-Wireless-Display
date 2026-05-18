@@ -66,12 +66,14 @@ This project is completed for the course assessment report:
 ---
 
 ## System Structure
+```text
 LED-DotMatrix-Wireless-Display/
 ├── README.md          # Project description
 ├── main.py            # Main program (MicroPython)
 └── hardware/
     ├── schematic.png  # Schematic
     └── pcb_layout.png # PCB layout
+```text
 
 ---
 
