@@ -14,7 +14,7 @@ This project is completed for the course assessment report:
 ---
 
 ## ✨ Demo Result
-![Hourglass Display Demo](./assets/demo.jpg)
+<img src="./assets/demo.jpg" width="500">
 
 ---
 
@@ -41,16 +41,16 @@ This project is completed for the course assessment report:
 
 ### Hardware Making Process
 #### 1. LED Board Preparation
-![LED Board Preparation](./assets/led_board_prep.jpg)
+<img src="./assets/led_board_prep.jpg" width="500">
 
 #### 2. Soldering Process
-![Soldering Process](./assets/soldering.jpg)
+<img src="./assets/soldering.jpg" width="500">
 
 #### 3. PCB Film Design
-![PCB Film](./assets/pcb_film.jpg)
+<img src="./assets/pcb_film.jpg" width="500">
 
 #### 4. Driver Board Finished
-![Driver Board](./assets/driver_board.jpg)
+<img src="./assets/driver_board.jpg" width="500">
 
 ### Hardware Structure
 - 4× 8×8 LED panels soldered into a 2×2 16×16 matrix
@@ -59,10 +59,11 @@ This project is completed for the course assessment report:
 - Stable 5V power supply circuit
 
 ### Hardware Design Files
-- Schematic diagram:  
-  ![Schematic](./hardware/schematic.png)
-- PCB layout:  
-  ![PCB Layout](./hardware/pcb_layout.png)
+Schematic diagram
+<img src="./hardware/schematic.png" width="500">
+
+PCB layout
+<img src="./hardware/pcb_layout.png" width="500">
 
 ---
 
