@@ -13,6 +13,11 @@ This project is completed for the course assessment report:
 
 ---
 
+## ✨ Demo Result
+![Hourglass Display Demo](./assets/demo.jpg)
+
+---
+
 ## Key Features
 - 16×16 full-color WS2812B LED matrix display
 - Serpentine scanning algorithm to correct pixel misalignment
@@ -34,15 +39,30 @@ This project is completed for the course assessment report:
 | Power IC | SCT9336STER | Step-down regulated power supply |
 | Driver Interface | GPIO18 | NeoPixel data output |
 
+### Hardware Making Process
+#### 1. LED Board Preparation
+![LED Board Preparation](./assets/led_board_prep.jpg)
+
+#### 2. Soldering Process
+![Soldering Process](./assets/soldering.jpg)
+
+#### 3. PCB Film Design
+![PCB Film](./assets/pcb_film.jpg)
+
+#### 4. Driver Board Finished
+![Driver Board](./assets/driver_board.jpg)
+
 ### Hardware Structure
 - 4× 8×8 LED panels soldered into a 2×2 16×16 matrix
 - Single-wire cascade connection
 - Custom PCB power module layout
 - Stable 5V power supply circuit
 
-### Hardware Files
-- Schematic diagram: `/hardware/schematic.png`
-- PCB layout: `/hardware/pcb_layout.png`
+### Hardware Design Files
+- Schematic diagram:  
+  ![Schematic](./hardware/schematic.png)
+- PCB layout:  
+  ![PCB Layout](./hardware/pcb_layout.png)
 
 ---
 
@@ -70,9 +90,15 @@ This project is completed for the course assessment report:
 LED-DotMatrix-Wireless-Display/
 ├── README.md          # Project description
 ├── main.py            # Main program (MicroPython)
-└── hardware/
-    ├── schematic.png  # Schematic
-    └── pcb_layout.png # PCB layout
+├── assets/            # All demo & process images
+│   ├── demo.jpg
+│   ├── driver_board.jpg
+│   ├── led_board_prep.jpg
+│   ├── pcb_film.jpg
+│   └── soldering.jpg
+└── hardware/          # Hardware design files
+    ├── schematic.png
+    └── pcb_layout.png
 ```
 
 ---
