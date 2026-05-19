@@ -41,16 +41,16 @@ This project is completed for the course assessment report:
 
 ### Hardware Making Process
 #### 1. LED Board Preparation
-<img src="./assets/led_board_prep.jpg" width="500">
+<img src="./assets/led_board_prep.jpg" width="300">
 
 #### 2. Soldering Process
-<img src="./assets/soldering.jpg" width="500">
+<img src="./assets/soldering.jpg" width="300">
 
 #### 3. PCB Film Design
-<img src="./assets/pcb_film.jpg" width="500">
+<img src="./assets/pcb_film.jpg" width="300">
 
 #### 4. Driver Board Finished
-<img src="./assets/driver_board.jpg" width="500">
+<img src="./assets/driver_board.jpg" width="300">
 
 ### Hardware Structure
 - 4× 8×8 LED panels soldered into a 2×2 16×16 matrix
@@ -60,9 +60,11 @@ This project is completed for the course assessment report:
 
 ### Hardware Design Files
 Schematic diagram
+<br>
 <img src="./hardware/schematic.png" width="500">
 
 PCB layout
+<br>
 <img src="./hardware/pcb_layout.png" width="500">
 
 ---
