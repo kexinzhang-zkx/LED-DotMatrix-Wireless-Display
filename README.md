@@ -15,7 +15,9 @@ This project is completed for the course assessment report:
 
 ## ✨ Demo Result
 hardware_demo
+<br>
 <img src="./assets/hardware_demo.jpg" width="500">
+<br>
 software_demo
 <br>
 <img src="./assets/software_demo.jpg" width="500">
